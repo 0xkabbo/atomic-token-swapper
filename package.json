@@ -1,0 +1,8 @@
+{
+  "name": "atomic-token-swapper",
+  "version": "1.0.0",
+  "description": "Hashed Timelock Contract for Atomic Swaps",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
